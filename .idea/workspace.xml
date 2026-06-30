@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e72d259-9ef1-4c14-901e-e6ad8b65c66f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/aDMIN/Documents/Real-time Chat Application" value="3FrBTaZr4Dc5ATisxR4TYbTS8Zf" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="18" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1394812805645665E-14" />
+      <entry key="MS500" value="0.0026093817624218045" />
+      <entry key="S2" value="0.4785714632689423" />
+      <entry key="S5" value="2.0299896689820907" />
+      <entry key="S10" value="4.602537444733169" />
+      <entry key="S30" value="11.731295506343718" />
+      <entry key="S60" value="17.64943799161135" />
+      <entry key="M2" value="24.55697176543017" />
+      <entry key="M5" value="33.12186124785643" />
+      <entry key="M10" value="40.04952298172341" />
+      <entry key="M15" value="44.63131527275891" />
+      <entry key="M30" value="52.07574877660153" />
+      <entry key="H1" value="57.6089730367622" />
+      <entry key="H2" value="61.03157419881955" />
+      <entry key="H4" value="62.94164682889152" />
+      <entry key="D1" value="64.6460978428547" />
+      <entry key="W1" value="64.94916955875759" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000002046979515" />
+      <entry key="MS500" value="1.0459442489695123" />
+      <entry key="S2" value="1.5153694684091112" />
+      <entry key="S5" value="2.341795894533794" />
+      <entry key="S10" value="3.463012688086108" />
+      <entry key="S30" value="5.575565235475484" />
+      <entry key="S60" value="6.776311027505539" />
+      <entry key="M2" value="7.997301718848004" />
+      <entry key="M5" value="9.627277601115525" />
+      <entry key="M10" value="11.340275495324239" />
+      <entry key="M15" value="12.576317908947562" />
+      <entry key="M30" value="14.595073465640189" />
+      <entry key="H1" value="16.07132605856582" />
+      <entry key="H2" value="16.970691228163066" />
+      <entry key="H4" value="17.467911600891128" />
+      <entry key="D1" value="17.908788910154687" />
+      <entry key="W1" value="17.986906429196225" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.1967450137752272E-7" />
+      <entry key="MS500" value="0.05996192589188947" />
+      <entry key="S2" value="1.1560790857138392" />
+      <entry key="S5" value="3.619316080779014" />
+      <entry key="S10" value="7.404653054728469" />
+      <entry key="S30" value="16.878776140764764" />
+      <entry key="S60" value="24.14603604782747" />
+      <entry key="M2" value="32.383404915407354" />
+      <entry key="M5" value="42.66590553985512" />
+      <entry key="M10" value="51.34066151250061" />
+      <entry key="M15" value="57.17121847077157" />
+      <entry key="M30" value="66.64958514201557" />
+      <entry key="H1" value="73.6685577563764" />
+      <entry key="H2" value="77.99605000084871" />
+      <entry key="H4" value="80.40635500174832" />
+      <entry key="D1" value="82.55433866410127" />
+      <entry key="W1" value="82.93599732996218" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FrBTaZr4Dc5ATisxR4TYbTS8Zf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aDMIN/Documents/Real-time Chat Application",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aDMIN\Documents\Real-time Chat Application\chatapp" />
+      <recent name="C:\Users\aDMIN\Documents\Real-time Chat Application\chatapp\backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="chatapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.chatapp.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="chatapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.demo.chatapp.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e72d259-9ef1-4c14-901e-e6ad8b65c66f" name="Changes" comment="" />
+      <created>1782823318990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782823318990</updated>
+      <workItem from="1782823320339" duration="27000" />
+      <workItem from="1782829313945" duration="1118000" />
+      <workItem from="1782830452066" duration="2366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.flywaydb:flyway-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+  </component>
+</project>
